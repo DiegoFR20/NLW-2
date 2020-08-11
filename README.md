@@ -24,6 +24,12 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 ## Imagens da Aplicação
 ### Web
 #### Página Inicial
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
+raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
+githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
+githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
+/DiegoFR20/NLW-2/master/images/mobile1.PNG
+./DiegoFR20/NLW-2/master/images/mobile1.PNG
 https://github.com/DiegoFR20/NLW-2/blob/master/images/web1.PNG
 
 #### Lista de Proffys Web
