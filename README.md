@@ -19,30 +19,28 @@ As tecnologias e bibliotecas utilizadas foram:
 
 Um profissional se cadastra por meio de um formulário, com nome, avatar, numero do whatsapp, biografia, matéria, horário e dias da semana.
 
-
 ### Deixaram no final um último desafio, que seria melhorar a aplicação em alguns pontos, agora é concluir os desafios.
 
 ## Imagens da Aplicação
 ### Web
 #### Página Inicial
-https://github.com/DiegoFR20/NLW-2/tree/master/images/web1.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/web1.png
 
 #### Lista de Proffys Web
-https://github.com/DiegoFR20/NLW-2/tree/master/images/web2.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/web2.png
 
 #### Formulário de cadastro de Proffy
-https://github.com/DiegoFR20/NLW-2/tree/master/images/web3.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/web3.png
 
 ### Mobile
 #### Menu principal do Mobile
-https://github.com/DiegoFR20/NLW-2/tree/master/images/mobile1.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile1.png
 
 #### Lista de Proffys
-https://github.com/DiegoFR20/NLW-2/tree/master/images/mobile2.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile2.png
 
 #### Filtro de Proffys Mobile
-https://github.com/DiegoFR20/NLW-2/tree/master/images/mobile3.png
+https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile3.png
 
 #### Quer ser um Proffy?
-https://github.com/DiegoFR20/NLW-2/tree/master/images/mobile4.png
-
+https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile4.png
