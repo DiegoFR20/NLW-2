@@ -16,7 +16,6 @@ As tecnologias e bibliotecas utilizadas foram:
 - Expo
 
 ## Como funciona ?
-
 Um profissional se cadastra por meio de um formulário, com nome, avatar, numero do whatsapp, biografia, matéria, horário e dias da semana.
 
 ### Deixaram no final um último desafio, que seria melhorar a aplicação em alguns pontos, agora é concluir os desafios.
