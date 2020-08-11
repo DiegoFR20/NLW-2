@@ -44,5 +44,5 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 /images/mobile3.png
 
 #### Quer ser um Proffy?
-/images/mobile4.png
+(/images/mobile4.png)
 
