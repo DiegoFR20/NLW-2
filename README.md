@@ -33,13 +33,13 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 
 ### Mobile
 #### Menu principal do Mobile
-<img align="center" width="225" height="480" src="/images/mobile1.PNG">
+<img align="center" width="270" height="575" src="/images/mobile1.PNG">
 
 #### Lista de Proffys
-<img align="center" width="225" height="480" src="/images/mobile2.PNG">
+<img align="center" width="270" height="575" src="/images/mobile2.PNG">
 
 #### Filtro de Proffys Mobile
-<img align="center" width="225" height="480" src="/images/mobile3.PNG">
+<img align="center" width="270" height="575" src="/images/mobile3.PNG">
 
 #### Quer ser um Proffy?
-<img align="center" width="225" height="480" src="/images/mobile4.PNG">
+<img align="center" width="270" height="575" src="/images/mobile4.PNG">
