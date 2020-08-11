@@ -24,7 +24,7 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 ### Web
 #### Página Inicial
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web1.PNG
-<img align="right" width="100" height="100" src="/images/web1.PNG">
+<img align="center" width="200" height="200" src="/images/web1.PNG">
 
 #### Lista de Proffys Web
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web2.PNG
