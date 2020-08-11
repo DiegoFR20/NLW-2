@@ -24,29 +24,23 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 ## Imagens da Aplicação
 ### Web
 #### Página Inicial
-https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
-raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
-githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
-githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
-/DiegoFR20/NLW-2/master/images/mobile1.PNG
-./DiegoFR20/NLW-2/master/images/mobile1.PNG
-https://github.com/DiegoFR20/NLW-2/blob/master/images/web1.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web1.PNG
 
 #### Lista de Proffys Web
-https://github.com/DiegoFR20/NLW-2/blob/master/images/web2.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web2.PNG
 
 #### Formulário de cadastro de Proffy
-https://github.com/DiegoFR20/NLW-2/blob/master/images/web3.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web3.PNG
 
 ### Mobile
 #### Menu principal do Mobile
-https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile1.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
 
 #### Lista de Proffys
-https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile2.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile2.PNG
 
 #### Filtro de Proffys Mobile
-https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile3.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile3.PNG
 
 #### Quer ser um Proffy?
-https://github.com/DiegoFR20/NLW-2/blob/master/images/mobile4.PNG
+https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile4.PNG
