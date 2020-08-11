@@ -23,24 +23,29 @@ Um profissional se cadastra por meio de um formulário, com nome, avatar, numero
 ## Imagens da Aplicação
 ### Web
 #### Página Inicial
-https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web1.PNG
 <img align="center" width="200" height="200" src="/images/web1.PNG">
 
 #### Lista de Proffys Web
+<img align="center" width="200" height="200" src="/images/web2.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web2.PNG
 
 #### Formulário de cadastro de Proffy
+<img align="center" width="200" height="200" src="/images/web3.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/web3.PNG
 
 ### Mobile
 #### Menu principal do Mobile
+<img align="center" width="200" height="200" src="/images/mobile1.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile1.PNG
 
 #### Lista de Proffys
+<img align="center" width="200" height="200" src="/images/mobile2.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile2.PNG
 
 #### Filtro de Proffys Mobile
+<img align="center" width="200" height="200" src="/images/mobile3.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile3.PNG
 
 #### Quer ser um Proffy?
+<img align="center" width="200" height="200" src="/images/mobile4.PNG">
 https://raw.githubusercontent.com/DiegoFR20/NLW-2/master/images/mobile4.PNG
